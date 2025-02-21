@@ -9,13 +9,13 @@ import AsyncStorage from '@react-native-async-storage/async-storage'; // Importe
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCsKbRXMuLJjVRionzC1WXeEQwaD7KQxoQ",
-  authDomain: "helbimmoapp.firebaseapp.com",
+  apiKey: "######",
+  authDomain: "######",
   projectId: "helbimmoapp",
-  storageBucket: "helbimmoapp.appspot.com",
-  messagingSenderId: "131253982264",
-  appId: "1:131253982264:web:d580ecbd4259779b9242cd",
-  measurementId: "G-YVKVZ2113W"
+  storageBucket: "######",
+  messagingSenderId: "######",
+  appId: "######",
+  measurementId: "######"
 };
 
 // Initialisation de l'application Firebase avec la configuration définie
